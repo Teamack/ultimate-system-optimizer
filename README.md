@@ -11,7 +11,7 @@ A comprehensive, cross-platform system optimization tool that provides real-time
 
 ## ✨ Features
 
-### ??️ Real-Time System Monitoring
+### ⏰ Real-Time System Monitoring
 - **CPU Usage**: Monitor processor utilization with live updates
 - **Memory Usage**: Track RAM consumption and availability
 - **Disk Space**: Monitor storage usage across all drives
