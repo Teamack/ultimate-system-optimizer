@@ -1,0 +1,16 @@
+# Ultimate System Optimizer - Dependencies
+# Optimized for performance and minimal overhead
+
+# Core system monitoring (required)
+psutil>=5.9.0
+
+# GUI framework (usually included with Python, but specify for completeness)
+# tkinter - comes with Python, no pip install needed
+
+# Optional performance profiling tools (development only)
+memory-profiler>=0.61.0  # For memory profiling during development
+line-profiler>=4.0.0     # For line-by-line performance profiling
+
+# Platform-specific optional dependencies
+# Windows: pywin32>=305  # Uncomment for advanced Windows features
+# Linux: python-apt      # Uncomment for package management features
