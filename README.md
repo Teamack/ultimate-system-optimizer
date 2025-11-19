@@ -9,6 +9,33 @@ A comprehensive, cross-platform system optimization tool that provides real-time
 ![Python](https://img.shields.io/badge/Python-3.6%2B-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+---
+
+## 📚 **NEW: Complete Development Guides**
+
+Before diving into implementation, check out these comprehensive guides:
+
+### 🎯 **Start Here**
+- **[OPTIMIZATION_SUMMARY.md](OPTIMIZATION_SUMMARY.md)** - Quick reference for avoiding lag and performance issues (5-min read)
+
+### 📖 **Essential Reading**
+- **[REVOLUTIONARY_FEATURES.md](REVOLUTIONARY_FEATURES.md)** - 30 industry-disrupting features to dominate the market
+- **[FEATURE_PRIORITY_MATRIX.md](FEATURE_PRIORITY_MATRIX.md)** - Complete 8-week MVP roadmap and implementation strategy
+- **[PERFORMANCE_GUIDE.md](PERFORMANCE_GUIDE.md)** - Detailed threading patterns, GUI optimization, and code examples
+- **[PROJECT_STRUCTURE.md](PROJECT_STRUCTURE.md)** - Modular architecture design and file organization
+
+### 🚀 **What Makes This Different**
+This isn't just another system cleaner - it's an **AI-powered predictive system manager** that:
+- Predicts performance issues BEFORE they happen
+- Automatically optimizes based on what you're doing (gaming, work, creative)
+- Learns your patterns and schedules maintenance during idle times
+- Prevents crashes by detecting early warning signs
+- Tracks environmental impact and extends hardware life
+
+**Read the guides above to see how we're redefining system optimization.**
+
+---
+
 ## ✨ Features
 
 ### ⏰ Real-Time System Monitoring
