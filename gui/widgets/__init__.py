@@ -1,0 +1,3 @@
+"""Custom widgets for Ultimate System Optimizer."""
+
+__all__ = []
